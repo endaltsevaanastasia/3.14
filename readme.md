@@ -8,7 +8,7 @@ LICENSE: [MIT](/license.md)
 ---
 
 ## **Содержание**:
-1. История происхождения GIT
+1. [История происхождения GIT](history.md)
 2. [Что такое GIT?](git.md)
 3. [Установка GIT](installation.md)
 4. [Основные команды в работе с GIT](teams.md)
